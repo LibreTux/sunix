@@ -1,0 +1,1 @@
+a basic x86_64 unix-like os made with full posix compliance. PS i used/using build your own x but i will expand to other resources like wikihow etc
